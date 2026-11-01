@@ -1,0 +1,146 @@
+[
+  {
+    "id": "Q01",
+    "question": "Ngô Quyền chiến thắng quân Nam Hán trên sông Bạch Đằng vào năm nào?",
+    "options": [
+      "938",
+      "968",
+      "1077",
+      "1288"
+    ],
+    "correct": 0,
+    "sourceCard": "NV04"
+  },
+  {
+    "id": "Q02",
+    "question": "Ai lãnh đạo cuộc khởi nghĩa Lam Sơn?",
+    "options": [
+      "Ngô Quyền",
+      "Lê Lợi",
+      "Đinh Bộ Lĩnh",
+      "Phùng Hưng"
+    ],
+    "correct": 1,
+    "sourceCard": "NV07"
+  },
+  {
+    "id": "Q03",
+    "question": "Vị danh tướng gắn với tác phẩm Thuật hoài là ai?",
+    "options": [
+      "Phạm Ngũ Lão",
+      "Lê Lợi",
+      "Chu Văn An",
+      "Cao Lỗ"
+    ],
+    "correct": 0,
+    "sourceCard": "NV09"
+  },
+  {
+    "id": "Q04",
+    "question": "Thành Cổ Loa gắn với nhân vật nào?",
+    "options": [
+      "Trần Hưng Đạo",
+      "An Dương Vương",
+      "Lý Thường Kiệt",
+      "Nguyễn Công Trứ"
+    ],
+    "correct": 1,
+    "sourceCard": "DL10"
+  },
+  {
+    "id": "Q05",
+    "question": "Tín ngưỡng thờ Cá Ông phổ biến trong cộng đồng nào?",
+    "options": [
+      "Cư dân miền núi",
+      "Ngư dân ven biển",
+      "Thợ rèn",
+      "Thương nhân"
+    ],
+    "correct": 1,
+    "sourceCard": "PT07"
+  },
+  {
+    "id": "Q06",
+    "question": "Tứ linh gồm những linh vật nào?",
+    "options": [
+      "Long, Lân, Quy, Phụng",
+      "Long, Hổ, Hạc, Quy",
+      "Lân, Hổ, Hạc, Phụng",
+      "Long, Ngư, Hổ, Hạc"
+    ],
+    "correct": 0,
+    "sourceCard": "PT08"
+  },
+  {
+    "id": "Q07",
+    "question": "Theo phong tục, lễ tiễn ông Táo thường diễn ra ngày nào?",
+    "options": [
+      "15 tháng Giêng",
+      "23 tháng Chạp",
+      "5 tháng Năm",
+      "10 tháng Ba"
+    ],
+    "correct": 1,
+    "sourceCard": "PT04"
+  },
+  {
+    "id": "Q08",
+    "question": "Hai Bà Trưng khởi nghĩa vào năm nào?",
+    "options": [
+      "40",
+      "248",
+      "938",
+      "1428"
+    ],
+    "correct": 0,
+    "sourceCard": "NV02"
+  },
+  {
+    "id": "Q09",
+    "question": "Kinh đô Hoa Lư gắn với triều đại nào?",
+    "options": [
+      "Nhà Đinh",
+      "Nhà Trần",
+      "Nhà Lý",
+      "Nhà Hồ"
+    ],
+    "correct": 0,
+    "sourceCard": "DL16"
+  },
+  {
+    "id": "Q10",
+    "question": "Theo truyền thuyết, vị thần núi chống lại Thủy Tinh là ai?",
+    "options": [
+      "Chử Đồng Tử",
+      "Sơn Tinh",
+      "Cá Ông",
+      "Ông Táo"
+    ],
+    "correct": 1,
+    "sourceCard": "PT10"
+  },
+  {
+    "id": "Q11",
+    "question": "Nguyễn Trãi gắn với tác phẩm nào?",
+    "options": [
+      "Bình Ngô đại cáo",
+      "Truyện Kiều",
+      "Chinh phụ ngâm",
+      "Lục Vân Tiên"
+    ],
+    "correct": 0,
+    "sourceCard": "NV08"
+  },
+  {
+    "id": "Q12",
+    "question": "Côn Sơn gắn với nhân vật lịch sử nào?",
+    "options": [
+      "Nguyễn Trãi",
+      "Bà Triệu",
+      "Ngô Quyền",
+      "Hai Bà Trưng"
+    ],
+    "correct": 0,
+    "sourceCard": "DL02"
+  }
+]
